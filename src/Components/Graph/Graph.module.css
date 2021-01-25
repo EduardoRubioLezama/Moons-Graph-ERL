@@ -1,0 +1,18 @@
+.Graph {
+  width: 100%;
+  text-align: center;
+}
+.ItemContainer{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.leftItem{
+  width: 50%;
+  text-align: left;
+}
+.rightItem{
+  width: 50%;
+  text-align: right;
+}
